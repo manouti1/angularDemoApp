@@ -1,1 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-color: black;
+  margin: 0 auto;
+}
+
+.table {
+  color: white;
+  border-radius: 5px;
+  width: 50%;
+  margin: 10px auto;
+  float: none;
+}
+
+.table td{
+  font-weight: bold;
+}
+
+.table td:first-child{
+  color: rgb(255, 193, 7);
+  font-weight: bold;
+}
+
+.loading-msg {
+  margin: 20%;
+  text-align: center;
+  font-size: 45px;
+}
+
+.progress{
+  background-color: black !important;
+}

@@ -1,0 +1,8 @@
+[
+  { "prizeData": [300, 200, 100], "currency": "USDT", "id": "1" },
+  { "prizeData": [300, 200, 100], "currency": "USDC", "id": "2" },
+  { "prizeData": [300, 200, 100], "currency": "BTC", "id": "3" },
+  { "prizeData": [300, 200, 100], "currency": "ETH", "id": "4" },
+  { "prizeData": [300, 200, 100], "currency": "UST", "id": "5" },
+  { "prizeData": [300, 200, 100], "currency": "OMG", "id": "6" }
+]
